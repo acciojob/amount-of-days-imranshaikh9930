@@ -9,4 +9,4 @@ function daysInYear(year) {
   return isLeapYear(year) ? 366 : 365;
 }
 
-console.log(daysInYear(2000));
+alert(daysInYear(2022))
