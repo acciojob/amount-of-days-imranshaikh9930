@@ -6,7 +6,10 @@ function isLeapYear(year){
 }
 
 function daysInYear(year) {
-  return isLeapYear(year) ? 366 : 365;
+  return isLeapYear(year) ? 366 : 365);
 }
 
-alert(daysInYear(2022))
+console.log(daysOfAYear(2022)); 
+console.log(daysOfAYear(2024)); 
+console.log(daysOfAYear(1900)); 
+console.log(daysOfAYear(2000)); 
