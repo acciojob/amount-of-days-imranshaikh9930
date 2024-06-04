@@ -14,4 +14,4 @@ function daysInYear(year) {
 
 let year = prompt("Enter Year");
 
-alert(daysInYear(year))
+alert(daysInYear(year));
